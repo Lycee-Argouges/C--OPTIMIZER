@@ -1,0 +1,11 @@
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.csproj.AssemblyReference.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.Properties.Resources.resources
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.csproj.GenerateResource.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.csproj.CoreCompileInputs.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Debug\NOSLEEP.exe.config
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Debug\NOSLEEP.exe
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Debug\NOSLEEP.pdb
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.exe
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.pdb
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Debug\NOSLEEP.NotifyZone.resources

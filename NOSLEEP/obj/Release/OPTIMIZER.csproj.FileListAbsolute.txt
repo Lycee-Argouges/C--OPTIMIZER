@@ -1,0 +1,12 @@
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.csproj.AssemblyReference.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.csproj.SuggestedBindingRedirects.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.Properties.Resources.resources
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.csproj.GenerateResource.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.csproj.CoreCompileInputs.cache
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Release\OPTIMIZER.exe.config
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Release\OPTIMIZER.exe
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\bin\Release\OPTIMIZER.pdb
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.NotifyZone.resources
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.exe
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.pdb
+C:\Users\tice_etab\source\repos\NOSLEEP\NOSLEEP\obj\Release\OPTIMIZER.BetterDialog.resources
